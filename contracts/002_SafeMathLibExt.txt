@@ -1,0 +1,31 @@
+Token name: InterGalactic Credits
+
+Token ticker: CREE
+
+Token decimals: 18
+
+Multisig wallet address: 0x2B7b79869f61B75Ee092F5626043601C252fD201
+
+*****************************
+
+Crowdsale rate: 100000
+
+Crowdsale start time: 2018-06-10T11:18 (GMT + 3)
+
+Crowdsale end time: 2018-06-14T00:00 (GMT + 3)
+
+Compiler Version: 0.4.11
+
+Is optimization enabled?: true
+
+*****************************
+
+SafeMathLib library name: SafeMathLibExt
+
+SafeMathLib library address: 0x28e541493dD7864Fe34eDd4aF4a86893675eefEa
+
+*****************************
+
+****SafeMathLib contract ABI:**** 
+
+[{"constant":false,"inputs":[{"name":"a","type":"uint256"},{"name":"b","type":"uint256"}],"name":"times","outputs":[{"name":"","type":"uint256"}],"payable":false,"type":"function"},{"constant":false,"inputs":[{"name":"a","type":"uint256"},{"name":"b","type":"uint256"}],"name":"plus","outputs":[{"name":"","type":"uint256"}],"payable":false,"type":"function"},{"constant":false,"inputs":[{"name":"a","type":"uint256"},{"name":"b","type":"uint256"}],"name":"divides","outputs":[{"name":"","type":"uint256"}],"payable":false,"type":"function"},{"constant":false,"inputs":[{"name":"a","type":"uint256"},{"name":"b","type":"uint256"}],"name":"minus","outputs":[{"name":"","type":"uint256"}],"payable":false,"type":"function"}]
